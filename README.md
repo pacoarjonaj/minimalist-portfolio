@@ -3,13 +3,7 @@
     <em>Minimalist</em> web and PDF résumé layout
 </h2>
 
-<p>
-Based on the design by <a href="https://github.com/BartoszJarocki/cv">Bartosz Jarocki</a>
-</p>
-
-<p>
-Keyboard Manager and adaptation by <a href="https://github.com/midudev/minimalist-portfolio-json">Midudev</a>
-</p>
+<p>design inspired by <a href="https://github.com/BartoszJarocki/cv">Bartosz Jarocki</a> and keyboard by <a href="https://github.com/midudev">Midudev</a></p>
 
 </div>
 
