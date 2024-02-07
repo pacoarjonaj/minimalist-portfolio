@@ -1,16 +1,14 @@
-
-
 <div align="center">
 <h2>
-    <em>Résumé</em> minimalista maquetado para web y pdf
+    <em>Minimalist</em> web and PDF résumé layout
 </h2>
 
 <p>
-Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz Jarocki</a>
+Based on the design by <a href="https://github.com/BartoszJarocki/cv">Bartosz Jarocki</a>
 </p>
 
 <p>
-Keyboard Manager y adaptación hecha por <a href="https://github.com/midudev/minimalist-portfolio-json">Midudev</a>
+Keyboard Manager and adaptation by <a href="https://github.com/midudev/minimalist-portfolio-json">Midudev</a>
 </p>
 
 </div>
@@ -21,23 +19,20 @@ Keyboard Manager y adaptación hecha por <a href="https://github.com/midudev/min
 
 ## 🛠️ Stack
 
-- [**Astro**](https://astro.build/) - El framework web de la nueva época.
-- [**Typescript**](https://www.typescriptlang.org/) - JavaScript con sintaxis de tipado.
-- [**Ninja Keys**](https://github.com/ssleptsov/ninja-keys) - Menu desplegable con atajos de teclado hecho en puro Javascript.
+- [**Astro**](https://astro.build/) - The web framework of the new age.
+- [**Typescript**](https://www.typescriptlang.org/) - JavaScript with typing syntax.
+- [**Ninja Keys**](https://github.com/ssleptsov/ninja-keys) - Dropdown menu with keyboard shortcuts made in pure JavaScript.
 
-## 🧞 Comandos
+## 🧞 Commands
 
-|     | Comando          | Acción                                        |
+|     | Command          | Action                                        |
 | :-- | :--------------- | :-------------------------------------------- |
-| ⚙️  | `dev` o `start` | Lanza un servidor de desarrollo local en  `localhost:4321`.  |
-| ⚙️  | `build`          | Comprueba posibles errores y hace un empaquetado de producción en `./dist/`.      |
-| ⚙️  | `preview`        | Vista previa en local `localhost:4321` |
+| ⚙️  | `dev` or `start` | Launches a local development server at `localhost:4321`.  |
+| ⚙️  | `build`          | Checks for possible errors and builds for production in `./dist/`.      |
+| ⚙️  | `preview`        | Preview locally at `localhost:4321`. |
 
 
 
-## 🔑 Licencia
+## 🔑 License
 
-[MIT](LICENSE.txt) - Creado por **pacoarjonaj**.
-
-
-
+[MIT](LICENSE.txt) - Created by **pacoarjonaj**.
