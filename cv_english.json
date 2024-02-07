@@ -1,0 +1,219 @@
+{
+  "basics": {
+    "name": "Francisco Arjona Jiménez",
+    "label": "Junior Full Stack Developer",
+    "image": "/me.webp",
+    "email": "arjonapaco0@gmail.com",
+    "phone": "+34 663237053",
+    "url": "/",
+    "summary": "I consider myself as a young developer driven by curiosity and curiosity and a proactive mindset, eager to work and continuously learn. I'm not seeking a project in a specific theme or sector but one that allows for professional growth. Among my goals for this year is to improve my language skills, such as English, to grow in my career as a developer alongside great professionals, and to explore new places.",
+    "location": {
+      "address": "",
+      "postalCode": "29200",
+      "city": "Antequera, Málaga",
+      "countryCode": "ES",
+      "region": "España"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Francisco Arjona",
+        "url": "https://www.linkedin.com/in/francisco-arjona/"
+      },
+      {
+        "network": "GitHub",
+        "username": "pacoarjonaj",
+        "url": "https://github.com/pacoarjonaj"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Cober.io",
+      "position": "Full Stack Developer",
+      "url": "https://cober.io",
+      "startDate": "2023-02-01",
+      "endDate": "2023-11-15",
+      "summary": "Responsible for the development and management of the Shopify application to offer the company's services to e-commerce",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Politécnica de Valencia",
+      "url": "https://www.upv.es/",
+      "area": "Software Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2021-09-15",
+      "endDate": "2022-06-15",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Universidad de Málaga",
+      "url": "https://www.uma.es",
+      "area": "Software Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2018-09-15",
+      "endDate": "2023-06-15",
+      "score": "7.2",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "Mongodb",
+      "level": "Basic",
+      "keywords": [
+        "Data Bases",
+        "No relational db",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Basic",
+      "keywords": [
+        "Data Bases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Advanced",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Sport Analytica",
+      "isActive": true,
+      "description": "Platform to analyze training sessions via video and track the user's sports performance",
+      "highlights": [
+        "Frontend Development",
+        "Business Idea",
+        "Work In Progress"
+      ],
+      "url": "/"
+    },
+    {
+      "name": "Emergy",
+      "isActive": false,
+      "description": "Mobile Application to consult emergency manuals and request assistance in any crisis situation",
+      "highlights": [
+        "Full Stack Development",
+        "Mobile app",
+        "Exteme Programming"
+      ],
+      "url": "/"
+    },
+    {
+      "name": "Wanna Hang Out",
+      "isActive": false,
+      "description": "Web Application to connect people and places. A project that was born to launch a start-up, although it finally did not continue due to business reasons",
+      "highlights": [
+        "Frontend Development",
+        "Scrum"
+      ],
+      "url": "/"
+    }
+  ]
+}

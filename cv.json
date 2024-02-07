@@ -1,0 +1,219 @@
+{
+  "basics": {
+    "name": "Francisco Arjona Jiménez",
+    "label": "Desarrollador Full Stack Junior",
+    "image": "/me.webp",
+    "email": "arjonapaco0@gmail.com",
+    "phone": "+34 663237053",
+    "url": "/",
+    "summary": "Me considero un joven desarrollador impulsado por la curiosidad y una mentalidad proactiva, con ganas de trabajar y aprender continuamente. No estoy buscando un proyecto en un tema o sector específico, sino uno que permita el crecimiento profesional. Entre mis metas para este año está mejorar mis habilidades lingüísticas, como el inglés, crecer en mi carrera como desarrollador junto a grandes profesionales y explorar nuevos lugares.",
+    "location": {
+      "address": "",
+      "postalCode": "29200",
+      "city": "Antequera, Málaga",
+      "countryCode": "ES",
+      "region": "España"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Francisco Arjona",
+        "url": "https://www.linkedin.com/in/francisco-arjona/"
+      },
+      {
+        "network": "GitHub",
+        "username": "pacoarjonaj",
+        "url": "https://github.com/pacoarjonaj"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Cober.io",
+      "position": "Desarrollador Full Stack",
+      "url": "https://cober.io",
+      "startDate": "2023-02-01",
+      "endDate": "2023-11-15",
+      "summary": "Responsable del desarrollo y gestión de la aplicación de Shopify para ofrecer los servicios de la empresa al comercio electrónico",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Politécnica de Valencia",
+      "url": "https://www.upv.es/",
+      "area": "Ingeniería de Software",
+      "studyType": "Licenciatura",
+      "startDate": "2021-09-15",
+      "endDate": "2022-06-15",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Universidad de Málaga",
+      "url": "https://www.uma.es",
+      "area": "Ingeniería de Software",
+      "studyType": "Licenciatura",
+      "startDate": "2018-09-15",
+      "endDate": "2023-06-15",
+      "score": "7.2",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsivo"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Framework CSS",
+        "Diseño Responsivo"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Superset de JavaScript"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Servidor"
+      ]
+    },
+    {
+      "name": "Mongodb",
+      "level": "Básico",
+      "keywords": [
+        "Bases de Datos",
+        "No relacional db",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Básico",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Framework React",
+        "SSR",
+        "Generación Estática"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Biblioteca JavaScript",
+        "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Hablante Nativo"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "Avanzado"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Sport Analytica",
+      "isActive": true,
+      "description": "Plataforma para analizar sesiones de entrenamiento a través de video y hacer seguimiento del rendimiento deportivo del usuario",
+      "highlights": [
+        "Desarrollo Frontend",
+        "Idea de Negocio",
+        "En Proceso"
+      ],
+      "url": "/"
+    },
+    {
+      "name": "Emergy",
+      "isActive": false,
+      "description": "Aplicación Móvil para consultar manuales de emergencia y solicitar asistencia en cualquier situación de crisis",
+      "highlights": [
+        "Desarrollo Full Stack",
+        "Aplicación Móvil",
+        "Programación Extrema"
+      ],
+      "url": "/"
+    },
+    {
+      "name": "Wanna Hang Out",
+      "isActive": false,
+      "description": "Aplicación Web para conectar personas y lugares. Un proyecto que nació para lanzar una startup, aunque finalmente no continuó debido a razones comerciales",
+      "highlights": [
+        "Desarrollo Frontend",
+        "Scrum"
+      ],
+      "url": "/"
+    }
+  ]
+}
